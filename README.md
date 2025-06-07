@@ -1,6 +1,6 @@
 # Dahom95 GitHub Profile
 
-This repository hosts my profile README and tracks my personal projects, including a forthcoming [Story Downloader GUI](https://github.com/Dahom95/dnovel) built with Python and PyQt6. A detailed specification is available in [docs/story_downloader_spec.md](docs/story_downloader_spec.md).
+This repository hosts my profile README and tracks my personal projects. The `story_downloader` folder contains a prototype implementation of my [Story Downloader GUI](https://github.com/Dahom95/dnovel) built with Python and PyQt6. A detailed specification is available in [docs/story_downloader_spec.md](docs/story_downloader_spec.md).
 
 - 👋 Hi, I'm @Dahom95
 - 👀 I'm interested in Fullstack development
