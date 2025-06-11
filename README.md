@@ -7,6 +7,9 @@ This repository hosts my profile README and tracks my personal projects, includi
 - 🌱 I'm currently learning MERN STACK
 - 💕 I'm looking to collaborate on open-source MERN or Python projects
 - 💌 How to reach me: hello@dahom.dev
+- 🚀 New: [Nuxt 3 Ultimate Boilerplate](./nuxt3-ultimate) starter
+- 📖 Auth modes explained in [token_strategy.md](nuxt3-ultimate/docs/token_strategy.md)
+- 📦 Run `pnpm zip` inside `nuxt3-ultimate` to create a distributable archive
 
 <!---
 Dahom95/Dahom95 is a ✨ special ✨ repository because its `README.md` (this file)
